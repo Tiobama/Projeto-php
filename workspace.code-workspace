@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "00-fullstack-php-modules"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "source"
+		},
+		{
+			"path": "storage"
+		},
+		{
+			"path": "themes"
+		},
+		{
+			"path": "vendor"
+		}
+	]
+}
